@@ -31,6 +31,8 @@ import vistas.ReservasJFramePrincipal;
  * La clave es hacer que el controlador registre los ActionListeners 
  * que se generen desde los componentes de las ventanas, de modo que pueda 
  * responder a los eventos de las ventanas.
+ * 
+ * Proyecto subido a github 8/10/24
  */
 public class Controlador implements ActionListener, WindowListener{
     
